@@ -1,0 +1,15 @@
+{
+    "name": "visit-counter-server",
+    "version": "1.0.0",
+    "description": "A simple Node.js server to track the number of visits using cookies.",
+    "main": "exercise2.js",
+    "scripts": {
+        "start": "node exercise2.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "cookie-parser": "^1.4.6"
+    },
+    "author": "Sopheaktra LEAN",
+    "license": "MIT"
+}
